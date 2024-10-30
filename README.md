@@ -1,4 +1,4 @@
-# Conversor de Imagens JPG para WEBP
+# Conversor de Imagens JPG/PNG para WEBP
 
 Este script em Python converte todas as imagens **JPG** em um diretório para o formato **WEBP** e organiza as imagens convertidas em uma subpasta com um timestamp.
 
